@@ -12,5 +12,5 @@ This is my work for DTS 2019 using VGG'16, the purpose is to classify images and
 **Anditya Arifianto** - [Linkedin](https://www.linkedin.com/in/andityaarifianto/)
 
 Modified by 
-* **Hasobi Roid R** [Linkeding](https://linkedin.com/in/hasobi)
-* **Muhammad Magrifitya Putra**[Linkedin](https://www.linkedin.com/in/muhammad-magrifitya-putra-651580175/)
+* **Hasobi Roid R** [Linkedin](https://linkedin.com/in/hasobi)
+* **Muhammad Magrifitya Putra** [Linkedin](https://www.linkedin.com/in/muhammad-magrifitya-putra-651580175/)
